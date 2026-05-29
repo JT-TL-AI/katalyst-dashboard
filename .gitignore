@@ -1,0 +1,1 @@
+node_modules/\n.next/\nfrontend/out/\nbackend/venv/\nbackend/data/\n*.pyc\n__pycache__/\n.env
